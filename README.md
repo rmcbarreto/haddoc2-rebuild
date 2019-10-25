@@ -36,6 +36,8 @@ To run haddoc2 example, please use and edit the makefile in example `example/` d
 
 **Important: Be sure to synthesize your project in VHDL 2008 mode !**
 
+This was tested using the [Terasic DE1-SoC](https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&No=836) board with the Intel Cyclone V 5CSEMA5F31C6
+
 The whole pipeline to feed the Haddoc2 rebuild CNN in FPGA is presented in another project [repository]().
 
 ## Haddoc2 rebuild FPGA implementation inputs and outputs
