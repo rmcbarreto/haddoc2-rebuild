@@ -75,3 +75,7 @@ The Haddoc2 rebuil does not work as intended. The structur has been rebuild, but
 1.  Add support of BatchNorm / Sigmoid / ReLU layers
 2.  Implement Dynamic Fixed Point Arithmetic
 3.  Support conv layers with sparse connections (such AlexNet's conv2 layer, where each neuron is connected to only half of conv1 outputs i.e n_outputs(layer-1) != n_inputs(layer) )
+
+# Need any HELP?
+If you want any information, feel free to contact me:
+rmcbarreto@gmail.com
